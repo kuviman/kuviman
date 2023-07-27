@@ -6,6 +6,6 @@ I also stream sometimes. You can see me on [twitch](https://twitch.tv/kuviman).
 
 Here's my [discord server](https://discord.gg/qPuvJ3fT7u).
 
-I use Arch btw. Also Rust 🦀.
+I use NixOS btw. Also Rust 🦀.
 
 ![pic](picture.png)
