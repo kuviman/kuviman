@@ -1,11 +1,13 @@
 # Hi I'm kuviman
 
-I make games sometimes. You can see them on my [itch.io page](https://kuviman.itch.io).
+I like participating in game jams, you can see my games on [itch.io](https://kuviman.itch.io).
+I use Rust 🦀 and my own [game engine](https://github.com/geng-engine/geng)
 
 I also stream sometimes. You can see me on [twitch](https://twitch.tv/kuviman).
 
-Here's my [discord server](https://discord.gg/qPuvJ3fT7u).
+Current projects:
 
-I use NixOS btw. Also Rust 🦀.
+- [Linksider - a puzzle game](https://store.steampowered.com/app/2995150/Linksider)
+- [Kast - an experimental programming language](https://kast-lang.org)
 
-![pic](picture.png)
+I use NixOS btw.
